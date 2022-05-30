@@ -528,3 +528,67 @@ footer p {
 footer span {
   color: #3e77e7;
 }
+
+@media (min-width: 2225px) {
+  header {
+    width: calc(99vw + 10px);
+  }
+
+  main .back {
+    width: calc(99vw - 190px);
+  }
+
+  main .back1 {
+    width: calc(99vw - 190px);
+  }
+
+  main .back2 {
+    width: calc(99vw - 190px);
+  }
+
+  main .back3 {
+    width: calc(99vw - 130px);
+  }
+
+  main .tecno {
+    width: calc(99vw - 190px);
+  }
+
+  .tecno .logos {
+    height: 55%;
+  }
+
+  .tecno .logos2 {
+    margin-top: 25px;
+    height: 62%;
+  }
+
+  .txt_logo2 {
+    margin-top: 0px;
+    font-size: 35px;
+  }
+
+  .prin_foto img {
+    height: 100%;
+  }
+
+  header .header1 {
+    padding: 0 20px 0 70px;
+  }
+
+  .container_perfil img {
+    width: 500px;
+    height: 500px;
+    border-radius: 270px;
+  }
+
+  .projetos .container_projetos {
+    width: calc(22% - 50px);
+    height: 85%;
+    padding: 35px 25px;
+  }
+
+  footer {
+    width: calc(99vw + 10px);
+  }
+}
