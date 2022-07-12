@@ -1,6 +1,6 @@
-# Desafio Final Busertech - Página Pessoal
+# Busertech Final Challenge - Personal Page
 
-Projeto de minha página pessoal desenvolvida durante estudos de HTML e CSS
+Project of my personal page developed using HTML and CSS
 
 
 PREVIEW:
