@@ -406,7 +406,7 @@ main .tecno {
 }
 
 .back1 .contatos {
-  width: calc(50% - 340px);
+  width: calc(100% - 340px);
   height: calc(100% - 80px);
   padding: 40px 170px;
   display: flex;
@@ -415,7 +415,7 @@ main .tecno {
   align-items: center;
 }
 
-.back1 .form {
+.back1 {
   width: 50%;
   height: 100%;
 }
@@ -487,20 +487,6 @@ img {
 
 .infos_contat {
   margin-top: 110px;
-}
-
-.form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.form label {
-  font-size: 24px;
-  line-height: 28.8px;
-  font-weight: 500;
-  color: #e0e0e0;
-  margin: 25px 0 7px 0;
 }
 
 /* ==========FOOTER========== */
